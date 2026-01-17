@@ -36,3 +36,4 @@ Item {
 ```
 [default] [final] [required] [readonly] property <propertyType> <propertyName>
 ```
+
